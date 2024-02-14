@@ -134,7 +134,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Project10.cpp" />
-    <ClCompile Include="Source1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Project10.rc" />
